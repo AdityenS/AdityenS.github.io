@@ -5,6 +5,5 @@ Hypersonics is the study of anything relating to the objects at speeds higher th
 
 - Guidance + Control
 
-* Propulsion
--   The propulsion systems of Hypersonic vehicles are fundamentally different than the traditional propulsion systems. The propulsion systems for hypersonic vehicles need to be intergrated into the frame of the craft.  
+* Propulsion: The propulsion systems of Hypersonic vehicles are fundamentally different than the traditional propulsion systems. The propulsion systems for hypersonic vehicles need to be intergrated into the frame of the craft.  
 - Aerothermodynamics
