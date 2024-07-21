@@ -1,8 +1,3 @@
-# Hypersonics
-
-### Introduction
-Hypersonics is the bridge between Aeronautics and Astronautics. It is bound by the limits of space and must be faster than the speed of Mach 5
-
-### Thermodynamics
-- Important
-- Important
+# Introduction
+Hypersonics is the study of anything relating to the objects at speeds higher than Mach 5. It can be broadly classified into 4 different subdisciplines
+- 
